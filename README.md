@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ryuoukou
-- 👀 I’m interested in learning the backend of python development
-- 🌱 I am currently learning Python and working with a database
+- 👀 I’m interested in learning the backend of Python development
+- 🌱 I am currently learning Python, working with Django, DRF, PostgreSQL and started learning React, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/Ryuouko
 
