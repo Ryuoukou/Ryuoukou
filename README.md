@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ryuoukou
+- 👋 Hi, I’m @Danil_Razhapov
 - 👀 I’m interested in learning the backend of Python development
 - 🌱 I am currently learning Python, working with Django, DRF, PostgreSQL and started learning React, JS
 - 💞️ I’m looking to collaborate on ...
